@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/b4cwrxfyqigwio30/branch/main?svg=true)](https://ci.appveyor.com/project/Antis85/ahj-anim-hw1-42vta/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/lao9pyl5k8gqc6ej/branch/main?svg=true)](https://ci.appveyor.com/project/Antis85/ahj-media-hw1/branch/main)
 
 # ahj-media-hw1
 
