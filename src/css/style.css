@@ -157,6 +157,7 @@ button:focus {
   display: flex;
   position: absolute;
   z-index: 1;
+  right: 2rem;
 }
 
 .timeline_button {  
