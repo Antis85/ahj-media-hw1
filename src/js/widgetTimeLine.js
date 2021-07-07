@@ -159,7 +159,7 @@ export default class WidgetTimeLine {
             <input data-id="post" name="post" placeholder="Post something here..." class="timeline_input" required>   
             <div data-id="timelineControls" class="timeline_controls">
               <div data-id="timelineAudioButton" class="timeline_button audio_button">
-                <span>&#127897;</span>
+                <span>&#127908;</span>
               </div>
               <div data-id="timelineVideoButton" class="timeline_button video_button">
                 <span>&#127909;</span>
